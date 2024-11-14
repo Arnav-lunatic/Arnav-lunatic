@@ -11,14 +11,6 @@
 </a>
 </p>
 
-<p width="100%" align="center">
-  <a href="https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=bd2aaf056eaf48b5">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=stzdaym79wk5kd2upuacqcy5p" alt="Spotify recently played" width="400" >
-  </a>
-</p>
-
-
-
 <h3 align="center" width="100%">Connect with me</h3>
   <p align="center" width="100%">
     <a href="https://www.instagram.com/arnav.builds/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="" height="50" width="50" /></a>
