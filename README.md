@@ -1,4 +1,4 @@
-<img width="100%" src="banner.svg">
+<img src="clone.png" width="100%"/>
 
   <a href="https://github.com/Arnav-lunatic">
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Arnav-lunatic" />
@@ -7,9 +7,11 @@
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnav-lunatic&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=28e4f63fa1954a34">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" alt="Spotify recently played" width="100%" alight="center">
+<p width="100%" alight="center">
+<a href="https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=bd2aaf056eaf48b5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" alt="Spotify recently played" width="600">
 </a>
+</p>
 
 <h3 align="center" width="100%">Connect with me</h3>
   <p align="center" width="100%">
