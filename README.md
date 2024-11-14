@@ -1,16 +1,15 @@
 <img width="100%" src="banner.svg">
 
-<div width="100%">
   <a href="https://github.com/Arnav-lunatic">
-    <img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=Arnav-lunatic" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Arnav-lunatic" />
   </a>
   <a href="https://github.com/Arnav-lunatic">
-    <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnav-lunatic&layout=compact&langs_count=8&card_width=320" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnav-lunatic&layout=compact&langs_count=8&card_width=320" />
 </a>
-</div>
-<br/>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=28e4f63fa1954a34&width=600)
+<a href="https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=28e4f63fa1954a34">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" alt="Spotify recently played" width="100%" alight="center">
+</a>
 
 <h3 align="center" width="100%">Connect with me</h3>
   <p align="center" width="100%">

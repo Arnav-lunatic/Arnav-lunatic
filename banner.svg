@@ -1,42 +1,14 @@
-<svg width="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
-    <style>
-    @import url('https://fonts.googleapis.com/css2?family=Micro+5');
-    .background {
-        fill: url(#bgImage);
-    }
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
 
-    .title {
-        font-family: "Micro 5", sans-serif;
-        font-size: 2rem;
-        fill: #ffffff;
-        text-anchor: middle;
-    }
+    <image href="https://github.com/Arnav-lunatic/Arnav-lunatic/blob/main/banner.svg" width="100%" />
 
-    .subtitle {
-        font-family: "Micro 5", sans-serif;
-        font-size: 1.2rem;
-        fill: #f2f2f2;
-        text-anchor: middle;
-        opacity: 0.8;
-    }
+    <rect x="50" y="50" width="500" height="100" rx="20" ry="20" fill="rgba(0, 0, 0, 0.5)" />
 
-    .overlay-bg {
-        fill: rgba(0, 0, 0, 0.6);
-    }
-    </style>
+    <text x="300" y="100" font-family="Arial" font-size="30" fill="#fff" text-anchor="middle" dy="10">
+        Hello, I'm Arnav
+    </text>
 
-    <defs>
-        <pattern id="bgImage" patternUnits="userSpaceOnUse" width="600" height="400">
-            <image href="clone.jpg" x="0" y="0" width="100%"/>
-        </pattern>
-    </defs>
-
-    <rect width="600" height="400" class="background" />
-
-
-    <rect x="100" y="150" width="400" height="100" rx="10" ry="10" class="overlay-bg" />
-
-
-    <text x="300" y="190" class="title">Arnav Here</text>
-    <text x="300" y="220" class="subtitle">crafting seamless digital journeys</text>
+    <text x="300" y="140" font-family="Arial" font-size="20" fill="#fff" text-anchor="middle" dy="10">
+        A passionate Developer & Learner
+    </text>
 </svg>
