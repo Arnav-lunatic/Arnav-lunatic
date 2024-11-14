@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="100%" src="banner.svg">
-</p>
+<img width="100%" src="banner.svg">
+
 
 <a href="https://github.com/Arnav-lunatic">
   <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Arnav-lunatic" />
