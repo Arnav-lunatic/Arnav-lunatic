@@ -7,10 +7,10 @@
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnav-lunatic&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<p width="100%" alight="center">
-<a href="https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=bd2aaf056eaf48b5">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" alt="Spotify recently played" width="600">
-</a>
+<p width="100%" align="center">
+  <a href="https://open.spotify.com/user/stzdaym79wk5kd2upuacqcy5p?si=bd2aaf056eaf48b5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" alt="Spotify recently played" width="600" >
+  </a>
 </p>
 
 <h3 align="center" width="100%">Connect with me</h3>
