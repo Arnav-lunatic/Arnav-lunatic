@@ -6,10 +6,9 @@
   <a href="https://github.com/Arnav-lunatic">
     <img width="380" align="center" src="https://github-readme-stats.vercel.app/api?username=Arnav-lunatic&theme=dracula" />
   </a>
-  <a href="https://github.com/Arnav-lunatic">
-    <img wi align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnav-lunatic&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav-lunatic)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center" width="100%">Connect with me</h3>
   <p align="center" width="100%">
