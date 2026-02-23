@@ -8,8 +8,6 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav-lunatic)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center" width="100%">Connect with me</h3>
   <p align="center" width="100%">
     <a href="https://www.instagram.com/arnav.builds/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="" height="50" width="50" /></a>
